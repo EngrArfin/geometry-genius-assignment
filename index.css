@@ -1,0 +1,49 @@
+body {
+    margin: 20px;
+  }
+.box{
+    width: 269px;
+    height: 32px;
+
+}
+.font-bold {
+    font-size: 45px;
+}
+.text-xs{
+    font-size: 35px
+}
+input{
+    background: #F1F1F1;
+    border-radius: 1px;
+    width: 20%;
+    width: 95px;
+    height: 32px;
+    box-sizing: content-box;
+}
+
+.btn {
+    width: 350px;
+    height: 56px;
+}
+
+.btn-cal{
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    color: white;
+    background: hsl(241, 98%, 39%);
+    width: 115px;
+    height: 35px;
+
+}
+.btn-blog{
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    color: white;
+    background: #1090D8;
+    width: 120px;
+    height: 48px;
+    left: 1700px;
+    top: 91px;
+}
