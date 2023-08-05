@@ -7,6 +7,8 @@ function multiply() {
 // add Arfin
 // add Arfin
 // add Arfin
+// add Arfin
+// add Arfin
   function multiply1() {
     var w = document.getElementById("w").value;
     var l = document.getElementById("l").value;
